@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>자유게시판</title>
+<title>장소연교수님의 롤린페이퍼</title>
 <style>
 #list {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -36,7 +36,7 @@
 </script>
 </head>
 <body>
-	<h1>자유게시판</h1>
+	<h1>장소연교수님의 롤린페이퍼</h1>
 	<table id="list" width="90%">
 		<tr>
 			<th>Id</th>
